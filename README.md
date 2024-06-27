@@ -1,3 +1,3 @@
 # random ftc things
 
-a kit of cascading slides
+a bunch of parts for FTC that i am designing
